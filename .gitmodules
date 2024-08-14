@@ -1,0 +1,3 @@
+[submodule "virgil"]
+	path = virgil
+	url = https://github.com/titzer/virgil
